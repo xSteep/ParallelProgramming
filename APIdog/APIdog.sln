@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIdog", "APIdog\APIdog.csproj", "{DF5487F2-3D90-4358-ADE9-4C3E64CE50A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF5487F2-3D90-4358-ADE9-4C3E64CE50A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF5487F2-3D90-4358-ADE9-4C3E64CE50A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF5487F2-3D90-4358-ADE9-4C3E64CE50A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF5487F2-3D90-4358-ADE9-4C3E64CE50A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6542F73-DCD8-4E4A-AD0A-0571984DC704}
+	EndGlobalSection
+EndGlobal
